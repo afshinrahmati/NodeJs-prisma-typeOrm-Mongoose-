@@ -13,3 +13,4 @@
     "typescript": "^5.0.4"
   }
 }
+// curl -H 'Content-Type: application/json' -d '{ "phoneNumber":"foo","email":"bar", "id": 1}' -X POST http://127.0.0.1:5050
