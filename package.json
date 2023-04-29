@@ -9,8 +9,9 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^18.16.1",
+    "mongodb": "^5.3.0",
     "ts-node": "^10.9.1",
+    "typeorm": "^0.3.15",
     "typescript": "^5.0.4"
   }
 }
-// curl -H 'Content-Type: application/json' -d '{ "phoneNumber":"foo","email":"bar", "id": 1}' -X POST http://127.0.0.1:5050
